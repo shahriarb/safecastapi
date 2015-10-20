@@ -4,7 +4,7 @@ production:
     server:
       vendor: digitalocean
       region: nyc2
-      size: 61
+      size: 2gb
       unique_name: db
     configuration:
       postgis: true
