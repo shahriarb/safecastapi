@@ -3,7 +3,7 @@ production:
     version: 9.2.5
     server:
       vendor: digitalocean
-      region: 4
+      region: nyc2
       size: 61
       unique_name: db
     configuration:
